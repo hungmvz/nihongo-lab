@@ -1,16 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <!--
-    Icon NihongoLab: chữ あ nét bút trắng trên nền chàm (indigo, màu chính của app).
+    Icon NihongoLab (kiểu mono): chữ あ nét bút trắng trên nền đen phẳng #09090b (= nền giao diện tối của app).
     Nét chữ lấy từ KanjiVG (03042.svg) © Ulrich Apel, CC BY-SA 3.0 — http://kanjivg.tagaini.net
     Chữ nằm trong vùng an toàn của icon maskable (hình tròn bán kính 40% = 204.8px quanh tâm).
   -->
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#6366f1"/>
-      <stop offset="1" stop-color="#4338ca"/>
-    </linearGradient>
-  </defs>
-  <rect width="512" height="512" rx="115" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="115" fill="#09090b"/>
   <g transform="translate(256 256) scale(3.5) translate(-57 -57.5)" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
     <path d="M31.01,33c0.88,0.88,2.75,1.82,5.25,1.75c8.62-0.25,20-2.12,29.5-4.25c1.51-0.34,4.62-0.88,6.62-0.5"/>
     <path d="M49.76,17.62c0.88,1,1.82,3.26,1.38,5.25c-3.75,16.75-6.25,38.13-5.13,53.63c0.41,5.7,1.88,10.88,3.38,13.62"/>
